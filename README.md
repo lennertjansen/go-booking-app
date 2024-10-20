@@ -1,2 +1,2 @@
 # Toy Booking App
-A toy booking app I'm writing to learn to basics of Go.
+A simple toy ticket booking CLI app I'm writing to learn to basics of Go.
